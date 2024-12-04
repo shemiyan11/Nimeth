@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nimeth Shemiyan Liivera </h1>
+<h1 align="center">Hi 👋, I'm Nimeth Shemiyan Livera </h1>
 <h3 align="center">I am an undergraduate student of IIT affiliated to Westminster University / Full stack web developer / IT Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shemiyan11&label=Profile%20views&color=0e75b6&style=flat" alt="navodchamil" /> </p>
 
