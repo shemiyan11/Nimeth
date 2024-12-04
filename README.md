@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navod Chamil Senarathna </h1>
+<h1 align="center">Hi 👋, I'm Nimeth Shemiyan Liivera </h1>
 <h3 align="center">I am an undergraduate student of IIT affiliated to Westminster University / Full stack web developer / IT Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shemiyan11&label=Profile%20views&color=0e75b6&style=flat" alt="navodchamil" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning *Full stack Web Development , Java*
 
-- 📫 How to reach me *navodsenarathna8@gmail.com*
+- 📫 How to reach me *nimethshemiyan59@gmil.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/navod chamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navod chamil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nimeth shemiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimeth shemiyan" height="30" width="40" /></a>
 <a href="[https://instagram.com/navod chamil](https://www.instagram.com/navod.chamil/profilecard/?igsh=cTk0a25lbnJyOW1i)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navod chamil" height="30" width="40" /></a>
 </p>
 
